@@ -1,3 +1,19 @@
+# BookArchive
+
+BookArchive is a simple Laravel-based web application for managing books, authors, and categories. The application allows users to view, create, update, and delete books, as well as manage authors and categories associated with those books. It supports image uploading, basic validation, and user-friendly interface with Bootstrap for styling.
+
+## Features
+
+- **Book Management**: Add, edit, delete, and view books.
+- **Author Management**: Add, edit, and delete authors.
+- **Category Management**: Add, edit, and delete categories.
+- **Image Uploading**: Upload book cover images, with automatic resizing and validation.
+- **Responsive Design**: Fully responsive layout using Bootstrap.
+- **Validation**: Proper form validation for book titles, descriptions, authors, categories, and images.
+- **User Interface**: Simple, user-friendly interface with icons and buttons for actions.
+
+##
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,16 +80,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# BookArchive
-
-BookArchive is a simple Laravel-based web application for managing books, authors, and categories. The application allows users to view, create, update, and delete books, as well as manage authors and categories associated with those books. It supports image uploading, basic validation, and user-friendly interface with Bootstrap for styling.
-
-## Features
-
-- **Book Management**: Add, edit, delete, and view books.
-- **Author Management**: Add, edit, and delete authors.
-- **Category Management**: Add, edit, and delete categories.
-- **Image Uploading**: Upload book cover images, with automatic resizing and validation.
-- **Responsive Design**: Fully responsive layout using Bootstrap.
-- **Validation**: Proper form validation for book titles, descriptions, authors, categories, and images.
-- **User Interface**: Simple, user-friendly interface with icons and buttons for actions.
